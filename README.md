@@ -11,3 +11,14 @@ This project gives a basic demo of a blue-green deployment strategy on AWS lever
 * AWS Account
 * Circleci Account
 * CloudFormation templates
+
+### Getting started:
+
+* fork this repo
+* setup circleci project
+* 
+* Github repo
+* Github repo
+
+
+
